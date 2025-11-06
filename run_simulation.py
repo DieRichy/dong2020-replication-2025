@@ -8,16 +8,16 @@ def main():
     # 1. Quick view Experiment （aggregated data)
     print("🚀 Running aggregated simulation...")
     df_agg = run_experiment(
-        n_firms=100, n_periods=200, n_runs=10,
-        strategy="ambitious",
+        n_firms=NUM_ORG, n_periods=NUM_PERIOD, n_runs=NUM_REPEAT, # from config.py
+        strategy="stepwise", #default,select from ["stepwise","ambitious","conservative"]
     )
     print(f"Aggregated data shape: {df_agg.shape}")
     
     # 2. Quick view Experiment （Anova)
     print("\n🚀 Running raw data simulation...")
     df_raw = run_experiment(
-        n_firms=100, n_periods=200, n_runs=10, 
-        strategy="ambitious",
+        n_firms=NUM_ORG, n_periods=NUM_PERIOD, n_runs=NUM_REPEAT, # from config.py
+        strategy="stepwise", #default,select from ["stepwise","ambitious","conservative"]
     )
     print(f"Raw data shape: {df_raw.shape}")
     print(df_raw.head(10))
