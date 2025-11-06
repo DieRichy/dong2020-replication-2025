@@ -88,7 +88,8 @@ streamlit run streamlit_ui.py
 ```
 
 This launches an interface where you can select aspiration type, uncertainty level, and view results interactively.
-
+Also, it provides a more intuitive way to adjust aspiration update strategy：
+(1️⃣"Stepwise",2️⃣"Ambitious" and 3️⃣"Conservative") 
 ---
 
 ## 📊 Output Overview
