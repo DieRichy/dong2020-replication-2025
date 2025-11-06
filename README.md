@@ -11,30 +11,28 @@ It allows users to explore how **different types of organizational aspirations**
 ---
 
 ## 📂 Project Structure
-
 Replicating_dong2020/
 │
 ├── src/
-│   ├── simulation.py       # Core agent-based simulation logic
-│   ├── aspirations.py      # Definitions for aspiration models (Historical, Social, Mixed, Switching)
-│   ├── config.py           # Experiment parameters (γ, μ, uncertainty levels, etc.)
-│   ├── analysis.py         # ANOVA and group mean difference computations (Table 1 reproduction)
-│   ├── plotting.py         # Visualization utilities for Table 1-style plots and dynamics
+│   ├── simulation.py               # Core agent-based simulation logic
+│   ├── aspirations.py              # Definitions for aspiration models (Historical, Social, Mixed, Switching)
+│   ├── config.py                   # Experiment parameters (γ, μ, uncertainty levels, etc.)
+│   ├── analysis.py                 # ANOVA and group mean difference computations (Table 1 reproduction)
+│   ├── plotting.py                 # Visualization utilities for Table 1-style plots and dynamics
 │
-├── outputs/                # Automatically generated plots and results
-│   ├──aspiration_effects_diff.png 
-│   ├──dynamic_trends.png
-│   ├──market_uncertainty_effects.png
-│   ├──summary_table.csv
-│   ├──table1_anova_heatmap.png
-│   ├──table1_anova_style_summary.csv
-│   ├──tech_uncertainty_effects.png
-
-├── streamlit_ui.py         # Optional interactive interface for running and visualizing results
+├── outputs/                        # Automatically generated plots and results
+│   ├── aspiration_effects_diff.png
+│   ├── dynamic_trends.png
+│   ├── market_uncertainty_effects.png
+│   ├── summary_table.csv
+│   ├── table1_anova_heatmap.png
+│   ├── table1_anova_style_summary.csv
+│   ├── tech_uncertainty_effects.png
 │
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation (this file)
----
+├── streamlit_ui.py                 # Optional interactive interface for running and visualizing results
+│
+├── requirements.txt                # Python dependencies
+└── README.md                       # Project documentation (this file)
 
 ## 🚀 How to Run
 
