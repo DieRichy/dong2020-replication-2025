@@ -11,7 +11,7 @@ It allows users to explore how **different types of organizational aspirations**
 ---
 
 ## 📂 Project Structure
-‘’‘
+```
 Replicating_dong2020/
 │
 ├── src/
@@ -34,7 +34,7 @@ Replicating_dong2020/
 │
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project documentation (this file)
-’‘’
+```
 ## 🚀 How to Run
 
 ### 1️⃣ Create environment
