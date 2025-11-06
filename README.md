@@ -90,12 +90,12 @@ streamlit run streamlit_ui.py
 This launches an interface where you can select aspiration type, uncertainty level, and view results interactively.
 Also, it provides a more intuitive way to adjust aspiration update strategy：
 (1️⃣"Stepwise",2️⃣"Ambitious" and 3️⃣"Conservative") 
-
+⚠️ If you run simulation using config as the paper used (200 firms, 1000 period, 1000 repeat), it may cost longer time depending on your device capacity.
 Examples：
 <img width="1444" height="897" alt="Screenshot 2025-11-06 at 15 27 23" src="https://github.com/user-attachments/assets/b2965234-15f9-484c-9a81-a5ab95142bb5" />
-
+Figure 1: User-friendly Panel - analysis
 <img width="1478" height="869" alt="Screenshot 2025-11-06 at 15 27 44" src="https://github.com/user-attachments/assets/d3698a77-bbfd-4545-ad9d-d653d0290299" />
-
+Figure 2: User-friendly Panel - Visualization
 ---
 
 ## 📊 Output Overview
