@@ -23,7 +23,7 @@ Replicating_dong2020/
 │
 ├── outputs/                        # Automatically generated plots and results
 │   ├── aspiration_effects_diff.png # bar plots of Performance and  Risk relative to the overall mean.
-│   ├── dynamic_trends.png          # how the performance and riks change during simulation
+│   ├── dynamic_trends.png          # depicts convergence of aspiration behaviors across simulation runs.
 │   ├── market_uncertainty_effects.png # illustrate how market uncertainty moderate aspiration outcomes.
 │   ├── summary_table.csv           # Anova Table
 │   ├── table1_anova_heatmap.png    # heatmap to show significance
