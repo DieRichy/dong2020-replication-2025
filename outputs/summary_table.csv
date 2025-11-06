@@ -1,0 +1,17 @@
+Aspiration,Uncertainty,Strategy,Performance,Risk
+historical,high_tech_high_market,stepwise,0.3770423979633647,0.0037424335144125498
+historical,high_tech_low_market,stepwise,0.455320306485373,0.005839126256902581
+historical,low_tech_high_market,stepwise,0.8667333466308274,0.006564425198012014
+historical,low_tech_low_market,stepwise,0.980304613471483,0.006603619314873876
+mixed,high_tech_high_market,stepwise,0.37636408949728367,0.003495136605095888
+mixed,high_tech_low_market,stepwise,0.4606638744762964,0.005603253464811979
+mixed,low_tech_high_market,stepwise,0.8791499467128773,0.008479328788295307
+mixed,low_tech_low_market,stepwise,0.9936244965428068,0.007423141779535929
+social,high_tech_high_market,stepwise,0.37728073270132273,0.005935583547396032
+social,high_tech_low_market,stepwise,0.4594766714925873,0.004801459534825745
+social,low_tech_high_market,stepwise,0.8742315439340919,0.005261817256541361
+social,low_tech_low_market,stepwise,0.9896941673482799,0.009060653643626926
+switching,high_tech_high_market,stepwise,0.3850408395336042,0.0038095652910519148
+switching,high_tech_low_market,stepwise,0.4709568331152857,0.007062982117984159
+switching,low_tech_high_market,stepwise,0.8914654719824668,0.005675259342786763
+switching,low_tech_low_market,stepwise,1.0029599815532024,0.00791019448266047
