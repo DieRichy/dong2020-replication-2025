@@ -26,7 +26,7 @@ Replicating_dong2020/
 │   ├── dynamic_trends.png          # depicts convergence of aspiration behaviors across simulation runs.
 │   ├── market_uncertainty_effects.png # illustrate how market uncertainty moderate aspiration outcomes.
 │   ├── summary_table.csv           # Anova Table
-│   ├── table1_anova_heatmap.png    # heatmap to show significance
+│   ├── table1_anova_heatmap.png    # visualization of F-values across factors.
 │   ├── table1_anova_style_summary.csv
 │   ├── tech_uncertainty_effects.png #illustrate how technological uncertainty moderate aspiration outcomes
 │
