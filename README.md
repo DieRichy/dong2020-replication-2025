@@ -22,13 +22,13 @@ Replicating_dong2020/
 │   ├── plotting.py                 # Visualization utilities for Table 1-style plots and dynamics
 │
 ├── outputs/                        # Automatically generated plots and results
-│   ├── aspiration_effects_diff.png
-│   ├── dynamic_trends.png
-│   ├── market_uncertainty_effects.png
-│   ├── summary_table.csv
-│   ├── table1_anova_heatmap.png
+│   ├── aspiration_effects_diff.png # bar plots of Performance and  Risk relative to the overall mean.
+│   ├── dynamic_trends.png          # how the performance and riks change during simulation
+│   ├── market_uncertainty_effects.png # illustrate how market uncertainty moderate aspiration outcomes.
+│   ├── summary_table.csv           # Anova Table
+│   ├── table1_anova_heatmap.png    # heatmap to show significance
 │   ├── table1_anova_style_summary.csv
-│   ├── tech_uncertainty_effects.png
+│   ├── tech_uncertainty_effects.png #illustrate how technological uncertainty moderate aspiration outcomes
 │
 ├── streamlit_ui.py                 # Optional interactive interface for running and visualizing results
 │
